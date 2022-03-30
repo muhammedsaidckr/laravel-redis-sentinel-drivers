@@ -1,5 +1,5 @@
 {
-    "name": "monospice/laravel-redis-sentinel-drivers",
+    "name": "sharpstream/laravel-redis-sentinel-drivers",
     "description": "Redis Sentinel integration for Laravel and Lumen.",
     "keywords": ["redis", "sentinel", "laravel", "lumen"],
     "type": "library",
