@@ -28,6 +28,12 @@
         "mockery/mockery": "^1.3",
         "phpunit/phpunit": "^5.0"
     },
+    "repositiories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:sharpstream/spicy-identifiers.git"
+        },
+    ],
     "autoload": {
         "psr-4": {
             "Monospice\\LaravelRedisSentinel\\": "src/"
