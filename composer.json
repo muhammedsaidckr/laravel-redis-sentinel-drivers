@@ -32,7 +32,7 @@
         {
             "type": "vcs",
             "url": "git@github.com:sharpstream/spicy-identifiers.git"
-        },
+        }
     ],
     "autoload": {
         "psr-4": {
