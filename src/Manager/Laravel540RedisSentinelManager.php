@@ -31,7 +31,7 @@ class Laravel540RedisSentinelManager extends VersionedRedisSentinelManager
      * @throws InvalidArgumentException If the specified connection is not
      * defined in the configuration
      */
-    protected function resolve($name)
+    protected function resolve($name = null)
     {
         return $this->resolveConnection($name);
     }
